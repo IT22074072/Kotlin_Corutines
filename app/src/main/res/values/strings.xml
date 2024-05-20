@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin_Corutines</string>
+    <string name="tvTitle">My ToDo List</string>
+    <string name="btnAdd">Add Item</string>
 </resources>
